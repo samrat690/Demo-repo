@@ -2,3 +2,4 @@
 
 Hi how r u
 hello
+My name is samrat and I am learning GIT
